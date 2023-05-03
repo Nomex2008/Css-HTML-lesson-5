@@ -37,6 +37,11 @@ span.text {
     font-size: 12px;
     margin: 10px;
 }
+
+p.text {
+    font-family: 'Bruno Ace SC', cursive;
+}
+
 .text--TextnomberOne {
     font-size: 16px;
 }
@@ -51,4 +56,7 @@ span.text {
 .ERROR {
     font-size: 25px; 
     padding-top: 25px;
+}
+text.ERROR {
+    font-family: 'Bebas Neue', cursive;
 }
